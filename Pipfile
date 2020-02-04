@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 mesa = "~=0.8"
 numpy = "~=1.18"
+mesa-geo = "~=0.1"
 
 [requires]
 python_version = "3.6"
