@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cbf568f38e8253747c583685c19dd0e2d1f35c09f33ccdf57ac07967beb6a8cc"
+            "sha256": "c86f50036c91118c19c6dfadcf441abbb84fdb4c7840249029427088d6e48042"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -9,7 +9,7 @@
         },
         "sources": [
             {
-                "name": "pypi",
+                "name": "corona-virus-simulator",
                 "url": "https://pypi.org/simple",
                 "verify_ssl": true
             }

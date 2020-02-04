@@ -6,8 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-mesa = "0.8.6"
-numpy = "1.18.1"
+mesa = "~=0.8"
+numpy = "~=1.18"
 
 [requires]
 python_version = "3.6"
