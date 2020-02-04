@@ -9,6 +9,7 @@ verify_ssl = true
 mesa = "~=0.8"
 numpy = "~=1.18"
 mesa-geo = "~=0.1"
+tornado = "==4.5.3"
 
 [requires]
 python_version = "3.6"
