@@ -1,4 +1,4 @@
-# corona-virus-simulator
+# Coronavirus-simulator
 
 # Requirements
 
@@ -6,4 +6,4 @@
 
 # Licenses 
 
-- `countries-land-1m.geo` https://github.com/simonepri/geo-maps
+- [custom.geo.json](https://geojson-maps.ash.ms/): These maps are sourced from Natural Earth and are in the public domain, so you are free to use them in any way without attribution.
